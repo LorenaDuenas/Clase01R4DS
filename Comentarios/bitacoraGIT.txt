@@ -1,0 +1,53 @@
+1er paso> instalar git a apartir de git-scm.com
+
+luego abrir Git bash
+
+tener en cuant el hecho de tener un repsoitorio local y en algun momento optar por subir nuestro codigo al GIThub.com
+tenemos campos> 
+  user name
+  enail add
+  password
+  
+  verificamos quenos omos robot, hasta obtener el chek 
+  
+  Create acount
+
+Luego creo un nuevo repositorio, no marcar la opcion de 
+readme y dejar el reposirotio en modo publico. 
+
+abierto git bassh navegamos hasta directorio de trabajo (creado en R studio)
+
+ejecuto pwd : consulto cual es el directorio
+
+cd desktop/clase?R4DS : modifico el directorio actual
+
+cd .. nos ubica lo mas basico de las subcarpetas
+
+ls listamos el contenido del directorio de trabajo 
+
+para ver el contenido de esa carpeta
+
+ctrol + L limpiamos la ventana
+
+Inicializamos nuestro repositori local
+git init : inicamos git 
+
+agrego los archivos a mi repsotorio que esta vacio
+git add . : 
+
+git status 
+
+git commin -a
+
+cuando nos piden el usuario ciniar ssion
+$ git config --global user.email "lorena.ds.94@gmail.com"
+
+$ git config --global user.name "LorenaDuenas
+
+git commit -a 
+
+esto nos pide informacionde correo y usuario 
+
+
+
+

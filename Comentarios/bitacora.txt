@@ -1,0 +1,15 @@
+habiendo avanzado la clase hasta casi as 9_30 listemos lo visto hasta
+este momento
+
+*Los comentarios empiezan con #
+*las funciones que hemos vist son: 
+**setwd()
+**getwd(dir)
+**help()
+**help.search()
+**dir()
+**dir.create()
+
+Todo problema debe ser formulado matricialmente de alli la importancia de saber trabajr con vectores y matrices en R
+
+Tan (o mas) importantec ocomo saber utilizar una fórmula es saber cuando no utilizarla
